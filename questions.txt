@@ -1,0 +1,24 @@
+CORE DISCUSSION QUESTIONS
+
+1. What is the causal question in this study, and is Mendelian randomisation an appropriate method to answer it?
+
+2. Do the genetic instruments used in the study satisfy the relevance assumption? What evidence is provided?
+
+3. Is the independence assumption likely to hold in this study? How do the authors address potential confounding?
+
+4. How do the authors assess and address pleiotropy (exclusion restriction assumption)? Are their approaches sufficient?
+
+5. How should we interpret the effect estimates from this MR study? What do they represent, and what do they NOT represent?
+
+
+OPTIONAL / EXTENSION QUESTIONS
+
+6. Using the Davies checklist, which MR assumptions are well supported in this paper, and which remain uncertain?
+
+7. What would be a useful negative control in this study, and how could it strengthen causal inference?
+
+8. Could weak instrument bias or sample overlap affect the results? How do the authors address this?
+
+9. How do the MR results compare with the observational findings, and what does this tell us?
+
+10. If MR and observational results differ, how should we interpret this discrepancy?
